@@ -6,9 +6,19 @@ top: 0%;
 right: 0%;
 left: 0%;
 }
+.image{
+padding:10px;
+border:2px;
+border-color:black;
+}
+p{
+width:75%;
+margin:auto;
+}
 body{
 margin:0;
 padding:0;
+background-color: EAE6E6;
 }
 a.menu{
 	transition: 0.5s;
